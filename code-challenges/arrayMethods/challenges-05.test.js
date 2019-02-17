@@ -15,7 +15,10 @@ For example, if the input is 'Welcome', the output will be:
 
 const howMuchPencil = (str) => {
   let result = [];
-  // Solution code here...
+  result.push(str);
+  for(let i = 0; i < str.length; i++){
+    result.push(result[i].slice(1));
+  }
   return result;
 };
 
@@ -28,7 +31,7 @@ For example, wordsToCharList('gregor') returns ['g','r','e','g','o','r'].
 ------------------------------------------------------------------------------------------------ */
 
 const wordsToCharList = (arr) => {
-  // Solution code here...
+  return arr.split('');
 };
 
 
@@ -75,7 +78,10 @@ const gruffaloCrumble = {
 
 const listFoods = (recipe) => {
   let result = [];
-  // Solution code here...
+  recipe.ingredients.forEach(item =>{
+    let x = (item.slice(item.indexOf(' ') + 1));
+    result.push(x.slice(x.indexOf(' ') + 1));
+  })
   return result;
 }
 
@@ -89,7 +95,9 @@ You may also use other string or array methods.
 
 const splitFoods = (recipe) => {
   let result = [];
-  // Solution code here...
+  recipe.ingredients.forEach(item => {
+    result.push(item.split(' ').splice(2).join(' '));
+  });
   return result;
 }
 
@@ -105,7 +113,10 @@ Return a new array containing just the verbs. For example, ['Mix until evenly di
 
 const stepActions = (recipe) => {
   let result = [];
-  // Solution code here...
+  recipe.steps.forEach(item => {
+    let x = item.split(' ');
+    result.push(x[0]);
+  });
   return result;
 }
 
@@ -123,7 +134,13 @@ For example:
 ------------------------------------------------------------------------------------------------ */
 
 const removeEvenValues = (arr) => {
-  // Solution code here...
+  for(let i = 0; i < arr.length; i++){
+    if(arr[i] % 2 === 0){
+      arr.splice(i,1);
+      i--;
+    }
+  }
+  return arr;
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -142,7 +159,15 @@ removeLastCharacters('Gregor', 9) returns ''
 ------------------------------------------------------------------------------------------------ */
 
 const removeLastCharacters = (str, numberOfCharacters) => {
-  // Solution code here...
+  if(numberOfCharacters > str.length){
+    return '';
+  }
+  else if(numberOfCharacters < 0){
+    return str;
+  }
+  else{
+    str.slice(0, str.length - numberOfCharacters);
+  }
 };
 
 
