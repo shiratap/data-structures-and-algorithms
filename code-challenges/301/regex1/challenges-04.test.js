@@ -57,7 +57,7 @@ Do not use the vertical bar (pipe) in your pattern.
 ------------------------------------------------------------------------------------------------ */
 
 const matchMonth = (input) => {
-  return input.search(/(October)(Oct)(october)(oct)/g);
+  return input.search(/^[Oo]ct(ober)?$/g);
 };
 
 /* ------------------------------------------------------------------------------------------------
