@@ -47,9 +47,10 @@ For example, 'abcdefg' returns 'bdf'
 const onlyOddChars = (str) => {
   let x = str.split('');
   let arr = []
-  for(let i = 0; i < x.length; i+2){
+  for(let i = 1; i < x.length; i = i + 2){
     arr.push(x[i])
   }
+  return arr.join('');
 
 };
 
@@ -60,7 +61,10 @@ Write a function named allHappy that takes in an array of strings and returns a 
 ------------------------------------------------------------------------------------------------ */
 
 const allHappy = (arr) => {
-  // Solution code here...
+  let x = arr.map(item => item.includes(':)'));
+  let y = x.filter(item => item===true)
+  return y.length === x.length;
+
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -70,7 +74,7 @@ Write a function named findAnything that takes in an array of strings, along wit
 ------------------------------------------------------------------------------------------------ */
 
 const findAnything = (arr, target) => {
-  // Solution code here...
+  return arr.filter(item => item.includes(target));
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -80,7 +84,9 @@ Write a function named findEvery that takes in an array of strings, along with a
 ------------------------------------------------------------------------------------------------ */
 
 const findEvery = (arr, target) => {
-  // Solution code here...
+  let x = arr.map(item => item.includes(target));
+  let y = x.filter(item => item===true)
+  return y.length === x.length;
 };
 
 /* ------------------------------------------------------------------------------------------------
@@ -96,7 +102,9 @@ For example, [['Brook Testing', 'Actual Person'], ['Human Person', 'Brook again'
 ------------------------------------------------------------------------------------------------ */
 
 const unenrollBrook = (arr) => {
-  // Solution code here...
+  return arr.map(item => {
+    return item.filter(strings => (!strings.includes('Brook')))
+  })
 };
 
 /* ------------------------------------------------------------------------------------------------
