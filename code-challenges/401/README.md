@@ -2,7 +2,7 @@
 # Code Challenges
 
 ### Array Reverse
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/arrayReverse)
+* [Array Reverse repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/arrayReverse)
 
 ### Array Shift
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/arrayShift)
+* [Array Shift repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/arrayShift)
