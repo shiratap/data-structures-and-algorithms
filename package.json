@@ -4,12 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "jest --coverage --verbose",
+    "test": "jest --coverage --verbose --testPathIgnorePatterns code-challenges/301/",
     "watch": "jest --watchAll --coverage --verbose"
   },
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "eslint": "^5.15.3",
     "jest": "^24.5.0"
   }
 }
