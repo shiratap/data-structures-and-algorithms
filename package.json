@@ -5,7 +5,9 @@
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage --verbose --testPathIgnorePatterns code-challenges/301/",
-    "watch": "jest --watchAll --coverage --verbose"
+    "lint": "eslint **/*.js",
+    "test-watch": "jest --watchAll --verbose --coverage",
+    "jsdoc": "jsdoc -c ./docs/config/jsdoc.config.json"
   },
   "author": "",
   "license": "ISC",
