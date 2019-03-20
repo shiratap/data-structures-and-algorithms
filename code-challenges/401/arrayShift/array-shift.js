@@ -2,7 +2,7 @@
 
 const insertShiftArray = function(array, value){
 
-  if(checkIfInvalidInput(array) || array.length === 0){return null};
+  if(checkIfInvalidInput(array) || array.length === 0){return null;}
 
   const newArray = new Array(array.length + 1);
   const midpoint = findMidpoint(array.length);
