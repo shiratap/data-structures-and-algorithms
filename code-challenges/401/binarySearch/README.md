@@ -7,5 +7,8 @@ Binary search, figure out if and where the value inputted into the second parama
 ## Approach & Efficiency
 The effeciency of the code is based proportional to the array list, but like O(arraylist/n);
 
+## Travis
+[![Build Status](https://travis-ci.com/shiratap/data-structures-and-algorithms.svg?branch=array_binary_search)](https://travis-ci.com/shiratap/data-structures-and-algorithms)
+
 ## Solution
 ![Screenshot](../assets/array-binary-search.jpg)
