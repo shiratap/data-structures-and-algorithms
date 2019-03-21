@@ -6,3 +6,6 @@
 
 ### Array Shift
 * [Array Shift repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/arrayShift)
+
+### Array-binary-search
+* [Array Binary Search repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/binarySearch)
