@@ -1,5 +1,6 @@
 'use strict';
 
+
 let binarySearch = function(array, value){
   if(!array || typeof array !== typeof []){return null;}
 
