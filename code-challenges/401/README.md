@@ -11,6 +11,6 @@
 * [Array Binary Search repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/binarySearch)
 
 ### Linked List
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/linkedList)
+* [Linked List repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/linkedList)
 
 
