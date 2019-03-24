@@ -12,7 +12,7 @@ describe('When looking for a value and the value is in the array', () => {
 
 describe('If the array is not sorted and the end values do not contain the value' , () => {
   it('Should return -1', () => {
-    let array = [3,4,5];
+    let array = [3,10,5];
     let value = 10;
     expect(binarySearch(array,value)).toBe(-1);
   });
