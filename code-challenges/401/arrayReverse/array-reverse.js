@@ -6,4 +6,4 @@ const reverseArray = function(arr){
     newArray.push(arr[i]);
   }
   return newArray;
-}
+};

@@ -1,5 +1,5 @@
 
-const reverseArray = require('../array-shift.js')
+const reverseArray = require('../array-shift.js');
 
 
 describe('Proper functionality for array-reverse',() => {
