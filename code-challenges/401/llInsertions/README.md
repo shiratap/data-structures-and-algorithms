@@ -1,6 +1,9 @@
 # Linked List Insertions
 Linked List class with nodes
 
+##Travis
+[![Build Status](https://travis-ci.com/shiratap/data-structures-and-algorithms.svg?branch=master)](https://travis-ci.com/shiratap/data-structures-and-algorithms)
+
 ## Challenge
 Added: 
 append(value) => adds node at the end of the list
