@@ -15,5 +15,8 @@ append => find end of list, point last node to new node with value
 insertBefore => find node with value = paramater1, insert a node before that one
 insertAfter => find node with value = paramater1, insert a node after that one
 
+##Travis
+
+
 ## Solution
 ![Screenshot](../assets/array-binary-search.jpg)
