@@ -1,11 +1,8 @@
 # Stacks and Queues
-<!-- Short summary or background information -->
-
 ## Challenge
-<!-- Description of the challenge -->
+Create a basic stack and queue
 
 ## Approach & Efficiency
-<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
+Created classes of both, with a node class. Each class has methods
 
-## API
-<!-- Description of each method publicly available to your Stack and Queue-->
+[![Build Status](https://travis-ci.com/shiratap/data-structures-and-algorithms.svg?branch=master)](https://travis-ci.com/shiratap/data-structures-and-algorithms)
