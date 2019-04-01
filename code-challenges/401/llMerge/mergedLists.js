@@ -21,6 +21,7 @@ module.exports = function mergeLists(LL1, LL2){
     cur2.next = cur1.next;
     cur1.next = cur2;
   }
+  
   return LL1.head;
 };
 

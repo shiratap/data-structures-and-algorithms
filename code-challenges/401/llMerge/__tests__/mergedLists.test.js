@@ -22,10 +22,15 @@ describe('', () => {
     LL2.append(6);
     LL2.append(8);
 
+    LL1.print();
+    LL2.print();
+    
     const result = mergedLists(LL1,LL2);
 
     expect(mergedLists(LL1,LL2)).toBe(result);
     expect(mergedLists(LL1,LL2).next.value).toEqual(2);
+    LL1.print();
+    LL2.print();
   });
   xit('Should fail with wrong input types', () => {
     const LL1 = {};
