@@ -17,10 +17,13 @@
 * [LL Insertions repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/llInsertions)
 
 ### LL Merge
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/llMerge)
+* [LL merge repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/llMerge)
 
 ### Stacks and Queues
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/stacksAndQueues)
+* [Stacks and Queues repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/stacksAndQueues)
 
 ### Pseudo Queue
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/pseudoQueue)
+* [Pseudo Queue repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/pseudoQueue)
+
+### Fifo Animal Shelter
+* [Fifo Animal Shelter repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/fifoAnimalShelter)
