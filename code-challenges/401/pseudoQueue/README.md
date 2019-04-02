@@ -1,4 +1,6 @@
 # Pseudo Queue
+## Travis
+[![Build Status](https://travis-ci.com/shiratap/data-structures-and-algorithms.svg?branch=master)](https://travis-ci.com/shiratap/data-structures-and-algorithms)
 
 ## Challenge
 Use 2 stacks to mimic the behavior of a queue
