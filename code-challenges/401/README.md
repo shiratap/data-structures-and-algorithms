@@ -18,3 +18,9 @@
 
 ### LL Merge
 * [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/llMerge)
+
+### Stacks and Queues
+* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/stacksAndQueues)
+
+### Pseudo Queue
+* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/pseudoQueue)
