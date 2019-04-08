@@ -33,6 +33,9 @@ class BinarySearchTree extends BinaryTree {
     super.root = node;
   }
   add(value, root){
+    if(!root){
+      root = new Node(value);
+    }
     if(root.value > value && root.leftChild){this.add(value, root.leftChild);}
     else if(root.value < value && root.rightChild){this.add(value, root.leftChild);}
     else if(root.value > value && !root.leftChild){
