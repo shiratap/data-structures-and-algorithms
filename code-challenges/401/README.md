@@ -24,7 +24,7 @@
 
 ### Pseudo Queue
 
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/pseudoQueue)
+* [PseudoQueue Repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/pseudoQueue)
 
 ### Fifo Animal Shelter
 * [Fifo Animal Shelter repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/fifoAnimalShelter)
@@ -33,11 +33,10 @@
 * [Multi Bracket Validation repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/multiBracketValidation)
 
 ### Tree
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/tree)
+* [Tree Repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/tree)
 
 ### FizzBuzzTree
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/fizzBuzzTree)
-=======
-* [Pseudo Queue repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/pseudoQueue)
+* [FizzBuzzTree repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/fizzBuzzTree)
+
 
 
