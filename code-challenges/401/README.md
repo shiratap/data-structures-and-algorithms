@@ -24,3 +24,12 @@
 
 ### Pseudo Queue
 * [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/pseudoQueue)
+
+### Animal Shelter
+* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/fifoAnimalShelter)
+
+### Tree
+* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/tree)
+
+### FizzBuzzTree
+* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/fizzBuzzTree)
