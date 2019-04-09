@@ -33,3 +33,6 @@
 
 ### FizzBuzzTree
 * [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/fizzBuzzTree)
+
+### BreadthTraversal
+* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/breadthTraversal)
