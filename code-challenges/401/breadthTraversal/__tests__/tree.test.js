@@ -2,14 +2,20 @@
 
 require('../tree.js');
 
-describe('breadthTraversal tests', () => {
-  it('should do things with a valid input', () => {
+describe('should test', () => {
+  it('should be alive!', () => {
+    expect(true).toBeTruthy();
+  });
+});
+
+xdescribe('breadthTraversal tests', () => {
+  xit('should do things with a valid input', () => {
     
   });
-  it('shouldnt do things with invalid input', () => {
+  xit('shouldnt do things with invalid input', () => {
 
   });
-  it('should do things when the tree is empty', () => {
+  xit('should do things when the tree is empty', () => {
 
   });
 });
