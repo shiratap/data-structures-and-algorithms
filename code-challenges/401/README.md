@@ -44,3 +44,9 @@
 ### Max value BT
 * [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/treeMaxVal)
 
+### hashtable
+* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/hashtable)
+
+### Repeated Word
+* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/repeatedWord)
+

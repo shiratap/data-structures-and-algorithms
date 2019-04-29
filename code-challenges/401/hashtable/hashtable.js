@@ -6,10 +6,13 @@ class HashTable {
   }
   add(val, key) {
     let hash = this.hash(key);
-    if (this.table[hash] !== null) {
-      this.table[hash] = { key: val };
+    if (this.table[hash] === undefined) {
+      this.table[hash] = { key, val };
+      return true;
     }
-    console.log(this.table);
+    else {
+      return false;
+    }
   }
 
   get(key) {   //takes in the key and returns the value from the table.
@@ -28,7 +31,7 @@ class HashTable {
     key.toLowerCase();
     let arr = key.split('');
     arr.forEach((item, idx) => {
-      hashedKey += item.charCodeAt(0) * 599 / 1024;
+      hashedKey += item.charCodeAt(0) * 799 / 1024;
     });
     hashedKey / 1024;
     return Math.floor(hashedKey);
