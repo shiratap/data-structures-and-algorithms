@@ -1,5 +1,7 @@
 # Hashtables
 
+[![Build Status](https://travis-ci.com/shiratap/data-structures-and-algorithms.svg?branch=master)](https://travis-ci.com/shiratap/data-structures-and-algorithms)
+
 ## Challenge
 Make a basic hash table class
 
