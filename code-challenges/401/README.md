@@ -36,3 +36,9 @@
 
 ### BreadthTraversal
 * [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/breadthTraversal)
+
+### hashtable
+* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/hashtable)
+
+### Repeated Word
+* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/repeatedWord)
