@@ -1,4 +1,5 @@
 # First repeated word
+[![Build Status](https://travis-ci.com/shiratap/data-structures-and-algorithms.svg?branch=master)](https://travis-ci.com/shiratap/data-structures-and-algorithms)
 
 ## Challenge
 Write a function that finds a duplicated word in a string

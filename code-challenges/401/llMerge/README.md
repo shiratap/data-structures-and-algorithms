@@ -1,6 +1,9 @@
 # Merge two Linked Lists
 Function that combines two LL
 
+## Travis
+[![Build Status](https://travis-ci.com/shiratap/data-structures-and-algorithms.svg?branch=master)](https://travis-ci.com/shiratap/data-structures-and-algorithms)
+
 ## Challenge
 Merge a linked list with another linked list
 return the reference to the LL

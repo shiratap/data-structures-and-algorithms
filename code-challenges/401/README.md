@@ -2,40 +2,47 @@
 # Code Challenges
 
 ### Array Reverse
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/arrayReverse)
+* [Array Reverse repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/arrayReverse)
 
 ### Array Shift
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/arrayShift)
+* [Array Shift repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/arrayShift)
 
-### Array Binary Search
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/binarySearch)
+### Array-binary-search
+* [Array Binary Search repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/binarySearch)
 
 ### Linked List
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/linkedList)
+* [Linked List Repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/linkedList)
 
 ### LL Insertions
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/llInsertions)
+* [LL Insertions repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/llInsertions)
 
 ### LL Merge
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/llMerge)
+* [LL merge repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/llMerge)
 
 ### Stacks and Queues
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/stacksAndQueues)
+* [Stacks and Queues repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/stacksAndQueues)
 
 ### Pseudo Queue
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/pseudoQueue)
 
-### Animal Shelter
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/fifoAnimalShelter)
+* [PseudoQueue Repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/pseudoQueue)
+
+### Fifo Animal Shelter
+* [Fifo Animal Shelter repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/fifoAnimalShelter)
+
+### Multi Bracket Validation
+* [Multi Bracket Validation repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/multiBracketValidation)
 
 ### Tree
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/tree)
+* [Tree Repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/tree)
 
 ### FizzBuzzTree
-* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/fizzBuzzTree)
+* [FizzBuzzTree repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/fizzBuzzTree)
 
 ### BreadthTraversal
 * [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/breadthTraversal)
+
+### Max value BT
+* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/treeMaxVal)
 
 ### hashtable
 * [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/hashtable)
@@ -48,3 +55,4 @@
 
 ### Left Join
 * [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/leftJoin)
+
