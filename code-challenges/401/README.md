@@ -45,3 +45,6 @@
 
 ### Tree Intersection
 * [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/treeIntersection)
+
+### Left Join
+* [repo](https://github.com/shiratap/data-structures-and-algorithms/tree/master/code-challenges/401/leftJoin)
