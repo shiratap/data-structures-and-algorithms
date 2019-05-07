@@ -6,13 +6,13 @@
 Make a graph data structure
 
 ## API
-* AddNode()
-  * 
-* AddEdge()
-  * 
+* AddNode(value)
+  * Adds a node with a value to the graph
+* AddEdge(node1,node2,weight)
+  * Connects the two existing nodes with the weight
 * GetNodes()
-  * 
-* GetNeighbors()
-  * 
+  * Returns all nodes in the graph
+* GetNeighbors(node)
+  * Gets all neighbors of the node
 * Size()
-  * 
+  * Returns how many nodes are in the graph
