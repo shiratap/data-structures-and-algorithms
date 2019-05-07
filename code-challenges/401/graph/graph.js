@@ -1,6 +1,7 @@
 'use strict';
 
 const Node = require('./node.js');
+const Queue = require('./queues.js');
 
 module.exports = class Graph {
   constructor() {
@@ -25,4 +26,22 @@ module.exports = class Graph {
   }
 
   Size() { return this.nodes.length; }
+
+  breadthFirst(node) {
+    const arr = [];
+    let q = new Queue();
+    if (node && node.next === undefined) { return null; }
+    q.enqueue(node);
+    while (q.front !== null) {
+      let curr = q.dequeue();
+      arr.push(curr);
+      curr.adj.forEach(neighbor => {
+        if (!arr.includes(neighbor[0])) {
+          q.enqueue(neighbor[0]);
+        }
+      });
+    }
+    return arr;
+  }
+
 };
