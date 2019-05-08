@@ -1,11 +1,14 @@
 # Depth First Traversal
-<!-- Short summary or background information -->
+
+[![Build Status](https://travis-ci.com/shiratap/data-structures-and-algorithms.svg?branch=master)](https://travis-ci.com/shiratap/data-structures-and-algorithms)
 
 ## Challenge
-<!-- Description of the challenge -->
+Given an adj list, return an arr that is in a depth first order
 
 ## Approach & Efficiency
-<!-- What approach did you take? Why? What is the Big O space/time for this approach? -->
+Big O
+  - Space: O(h) => how high the callstack is
+  - Time: O(n) => Needs to hit every node
 
 ## Solution
 ![Uml](../assets/depth-first.jpg)
